@@ -1,2 +1,2 @@
 # CPP-Qt
-Qt/C++ UI prototypes
+C++/Qt UI prototypes
